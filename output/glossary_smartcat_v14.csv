@@ -1,0 +1,101 @@
+﻿Source (en),Target (ru),Comment
+BIM module,BIM-модуль,A digital model of an integrated structural unit that has the properties and characteristics of several structural elements designed in the information modeling environment.
+data centre,центр обработки данных,"A complex engineering structure, a high-tech site for maintaining information systems and telecommunications equipment, whose function is to process, store and transmit information, strategically important for a particular company, and manage its information system."
+prefabricated modular element,модульный элемент максимальной готовности,"A structural element made of different materials, which demonstrates the highest degree of readiness for installation."
+cloud-based,облачные приложения,"Applications, services or resources made available on demand via the Internet from a cloud computing provider’s servers."
+family templates,шаблоны семейства,Serve as building blocks for creating element families that contain the shared information needed to start a BIM modelling project.
+intellectual property,интеллектуальная собственность,Creative work which can be treated as an asset or physical property.
+control points,контрольные точки,A point on the ground or building that has pre-observed three dimensional co-ordinates.
+laser scanning,лазерное сканирование,"An active, fast and automatic acquisition technique using laser light for non-contact measurement of 3D coordinates of points on surfaces in a dense regular pattern."
+geophysics,геофизика,The application of physics to study the earth and detect past human activity beneath the ground that plays a vital role in the discovery and understanding of archaeological sites.
+measured survey,процесс изменений зданий и местности,"The process of measurement for buildings and sites to provide an accurate, reduced scale representation showing the required structural elements and architectural features."
+metadata,метаданные,Data that describes other data and facilitates the re-use and long-term preservation of 3D survey datasets.
+parametric modelling,параметрическое моделирование,The creation of a digital model based on a series of pre-programmed rules so that changes in design will automatically update the assembly and its components.
+modelling tolerance,допустимое значение моделирования,"How accurately a model fits against the as-existing survey, usually a point cloud dataset."
+parametric objects,параметрические объекты,"Objects created using geometric definitions, associated data and rules that define their behaviour, how they interact with other objects or respond to changes in their parameters."
+photogrammetry,фотограмметрия,"The art, science and technology of determining size, shape and identification of objects by analysing terrestrial or aerial imagery."
+plug-ins,подключаемые модули,A software component that adds a specific feature to an existing computer program.
+viewports,видовые экраны,A users visible area of a page which can be single or multiple depending on the available viewing hardware and the process being undertaken.
+project north,вид сверху,The top of the drawing area within BIM authoring software.
+point cloud,облако точек,"A collection of XYZ coordinates in a common co-ordinate system, that may also include additional information such as an intensity or RGB value, that portrays to the viewer an understanding of the spatial distribution of the surface of a subject."
+carbon performance,углеродные показатели,"A measure of the carbon emissions from the operation, use and maintenance of an asset and the emissions associated with the users of the asset."
+desk-based assessment,кабинетная оценка,"The summary, collation and/or synthesis of existing research, assessments and management of legacy information."
+federated discipline-specific models,интегрированные отраслевые модели,An assembly of the discipline-specific models that contain 3D geometric and non-graphical data and associated documentation.
+intangible characteristics,нематериальные характеристики,"Identifiable non-monetary assets, such as heritage values and significance, that cannot be seen, touched or physically measured and are created through time and effort."
+meshing,создание сетки,The process of generating a polygonal or polyhedral mesh through the interconnection of three dimensional vertices.
+metric survey,метрический обзор,The use of precise and repeatable measurement methods to capture spatial information for reproduction at scale.
+native BIM,встроенное BIM-моделирование,The original component creation process used for representing the geometry of existing fabric.
+operation and maintenance (O&M),эксплуатация и техническое обслуживание,The daily activities and services needed to ensure an asset performs to its intended function.
+operational stage,операционный этап,The final stage in an assets development when the BIM data is used to manage all the information related to the operation and maintenance of the asset.
+professional liability,профессиональная ответственность,"Legal obligations arising out of a professional’s errors, acts of negligence or omissions during the course of their work."
+anthropometry,антропометрия,The measurement and study of the size and proportions of the human body.
+atrium,атрий,"Originally, the main or central inner hall of an ancient Roman house, open to the sky at the center and usually having a pool for the collection of rainwater. Later, the forecourt of an early Christian church, flanked or surrounded by porticoes. Now, an open, skylit court around which a house or building is built."
+balcony,балкон,An elevated platform projecting from the wall of a building and enclosed by a railing or parape.
+facade,фасад,"The front of a building or any of its sides facing a public way or space, esp. one distinguished by its architectural treatment."
+semiotics,семиотика,The study of signs and symbols as elements of communicative behavior.
+pyramid,пирамида,"A massive masonry structure having a rectangular base and four smooth, steeply sloping sides facing the cardinal points and meeting at an apex, used in ancient Egypt as a tomb to contain the burial chamber and the mummy of the pharaoh."
+harmony,гармония,"The orderly, pleasing, or congruent arrangement of the elements or parts in an artistic whole."
+golden section,золотое сечение,"A proportion between the two dimensions of a plane figure or the two divisions of a line, in which the ratio of the smaller to the larger is the same as the ratio of the larger to the whole: a ratio of approximately 0.618 to 1.000."
+fresco,фреска,"The art or technique of painting on a freshly spread, moist plaster surface with pigments ground up in water or a limewater mixtur."
+frieze,фриз,"The horizontal part of a classical entablature between the cornice and architrave, often decorated with sculpture in low relief. Also, a decorative band, as one along the top of an interior wall, immediately below the cornice, or a sculptured one in a stringcourse on an outside wall."
+gallery,галерея,"A long, relatively narrow room or hall, esp. one for public use and having architectural importance through its scale or decorative treatment. Also, a roofed promenade, esp. one extending inside or outside along the exterior wall of a building."
+rhythm,ритм,Movement characterized by a patterned repetition or alternation of formal elements or motifs in the same or a modified form.
+roof,крыша,"The external upper covering of a building, including the frame for supporting the roofing."
+terrace,терраса,"A raised level with a vertical or sloping front or sides faced with masonry, turf, or the like, esp. one of a series of levels rising above one another."
+vestibule,вестибюль,A small entrance hall between the outer door and the interior of a house or building.
+wall,стена,"Any of various upright constructions presenting a continuous surface and serving to enclose, divide, or protect an area."
+villa,вилла,A country residence or estate.
+topography,топография,"The physical configuration and features of a site, area, or region."
+transformation,трансформация,The process of changing in form or structure through a series of discrete permutations and manipulations in response to a specific context or set of conditions without a loss of identity or concept.
+volume,объем,"The size or extent of a three-dimensional object or region of space, measured in cubic units."
+space,пространство,"The three-dimensional field in which objects and events occur and have relative position and direction, esp. a portion of that field set apart in a given instance or for a particular purpose."
+anomaly,аномалия,"A deviation from the normal or expected form, order, or arrangement."
+axis,ось,"A central line that bisects a two-dimensional body or figure or about which a three-dimensional body or figure is symmetrical. Also, a straight line to which elements in a composition are referred for measurement or symmetry."
+concrete,бетон,"An artificial, stonelike building material made by mixing cement and various mineral aggregates with sufficient water to cause the cement to set and bind the entire mass."
+ergonomics,эргономика,An applied science concerned with the characteristics of people that need to be considered in the design of devices and systems in order that people and things will interact effectively and safely.
+capital,капитель,"The distinctively treated upper end of a column, pillar, or pier, crowning the shaft and taking the weight of the entablature or architrave."
+figure,фигура,"A shape or form, as determined by outlines or exterior surfaces. Also, a combination of geometric elements disposed in a particular form or shape."
+colonnade,колоннада,A series of regularly spaced columns supporting an entablature and usually one side of a roof structure.
+column,колонна,"A rigid, relatively slender structural member designed primarily to support compressive loads applied at the member ends. In classical architecture, a cylindrical support consisting of a capital, shaft, and usually a base, either monolithic or built up of drums the full diameter of the shaft."
+Building Information Modelling (BIM),BIM (Информационное моделирование зданий),"A collaborative process for the production and management of structured electronic information and illustrating, in digital terms, all the elements that compose a building."
+Asset Information Requirements (AIR),требования к информации об активах,Define the information required at project handover stage to enable the safe and effective operation of the asset.
+Project Information Model (PIM),информационная модель проекта,developed during the design and construction phase of a project which often forms the basis of the asset information model.
+church,храм (церковь),A building for public Christian worship.
+computer modeling,компьютерное моделирование,The use of computer technology and mathematical algorithms to create abstract models of systems and processes to simulate their behavior.
+cantilever,консоль,A beam or other rigid structural member extending beyond a fulcrum and supported by a balancing member or a downward force behind the fulcrum.
+module,модуль,A unit of measurement used for standardizing the dimensions of building materials or regulating the proportions of an architectural composition.
+contrast,контраст,Opposition or juxtaposition of dissimilar elements in a work of art to intensify each element’s properties and produce a more dynamic expressiveness.
+podium,подиум,"A solid mass of masonry visible above ground level and serving as the foundation of a building, esp. the platform forming the floor and substructure of a classical temple."
+unity,единство,"The state or quality of being combined into one, as the ordering of elements in an artistic work that constitutes a harmonious whole or promotes a singleness of effect."
+torii,тории,"A monumental, freestanding gateway on the approach to a Shinto shrine, consisting of two pillars connected at the top by a horizontal crosspiece and a lintel above it, usually curving upward."
+tokonoma,токонома,"Picture recess: a shallow, slightly raised alcove for the display of a flower arrangement or a kakemono, a vertical hanging scroll containing either text or a painting."
+threshold,порог,A place or point of entering or beginning.
+tetrastyle,тетрастиль,Having four columns on one or each front.
+symmetry,симметрия,"The exact correspondence in size, form, and arrangement of parts on opposite sides of a dividing line or plane, or about a center or axis. Also, regularity of form or arrangement in terms of like, reciprocal, or corresponding parts."
+story,этаж,"A complete horizontal division of a building, having a continuous or nearly continuous floor and comprising the space between two adjacent levels."
+stele,стела,"An upright stone slab or pillar with a carved or inscribed surface, used as a monument or marker, or as a commemorative tablet in the face of a building."
+spire,шпиль,"A tall, acutely tapering pyramidal structure surmounting a steeple or tower."
+sill,подоконник,"The lowest horizontal member of a frame structure, resting on and anchored to a foundation wall. Also, the horizontal member beneath a door or window opening."
+shrine,святилище,"A building or other shelter, often of a stately or sumptuous character, enclosing the remains or relics of a saint or other holy person and forming an object of religious veneration and pilgrimage."
+proportion,пропорция,"The comparative, proper, or harmonious relation of one part to another or to the whole with respect to magnitude, quantity, or degree. Also, the equality between two ratios in which the first of the four terms divided by the second equals the third divided by the fourth."
+rampart,вал (крепостной),A broad embankment of earth raised as a fortification around a place and usually surmounted by a parapet.
+promenade,променад,"An area used for a stroll or walk, esp. in a public place, as for pleasure or display."
+portico,портик,"A porch or walkway having a roof supported by columns, often leading to the entrance of a building."
+peristyle,перистиль,"A colonnade surrounding a building or a courtyard. Also, the courtyard so enclosed."
+pavilion,павильон,"A light, usually open building used for shelter, concerts, or exhibits, as in a park or fair. Also, a central or flanking projecting subdivision of a facade, usually accented by more elaborate decoration or greater height and distinction of skyline."
+palazzo,палаццо,"A large, imposing public building or private residence, esp. in Italy."
+pagoda,пагода,"A Buddhist temple in the form of a square or polygonal tower with roofs projecting from each of its many stories, erected as a memorial or to hold relics."
+obelisk,обелиск,"A tall, four-sided shaft of stone that tapers as it rises to a pyramidal point, originating in ancient Egypt as a sacred symbol of the sun-god Ra and usually standing in pairs astride temple entrances."
+nuraghe,нураги,"Any of the large, round or triangular stone towers found in Sardinia and dating from the second millennium B.C. to the Roman conquest."
+niche,ниша,"An ornamental recess in a wall, often semicircular in plan and surmounted by a half-dome, as for a statue or other decorative object."
+nave,корабль (нэф),"The principal or central part of a church, extending from the narthex to the choir or chancel and usually flanked by aisles."
+mosque,мечеть,A Muslim building or place of public worship.
+minaret,минарет,"A lofty, slender tower attached to a mosque, having stairs leading up to one or more projecting balconies from which the muezzin calls the Muslim people to prayer."
+mezzanine,мезонин,"A low or partial story between two main stories of a building, esp. one that projects as a balcony and forms a composition with the story beneath it."
+megalith,мегалит,"A very large stone used as found or roughly dressed, esp. in ancient construction work."
+mausoleum,мавзолей,"A large and stately tomb, esp. that in the form of a building for housing the tombs of many individuals, often of a single family."
+mass,масса,The physical volume or bulk of a solid body.
+joist,балка,"Any of a series of small, parallel beams for supporting floors, ceilings, or flat roofs."
+hierarchy,иерархия,"A system of elements ranked, classified, and organized one above another, according to importance or significance."
+hall,холл,"The large entrance room of a house or building, as a vestibule or lobby. Also, a large room or building for public gatherings or entertainment."
+background,фон,The part of an image represented as being at the maximum distance from the frontal plane.
