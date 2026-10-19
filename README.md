@@ -20,7 +20,8 @@
 4. Antonopoulou, S., & Bryan, P. (2017). BIM for Heritage: Developing a Historic Building Information Model. Historic England.
 5. Рыбакова А.О. Оценка эффективности проектирования на основе модульных элементов максимальной готовности // Строительство: наука и образование. 2022. Т. 12. Вып. 3. Ст. 9. URL: http://nso-journal.ru. DOI: 10.22227/2305 5502.2022.3.9
 6.  Rybakova A.O. Evaluating the efficiency of modular design based on prefabricated elements. Stroitel’stvo: nauka i obrazovanie [Construction: Science and Education]. 2022; 12(3):9. URL: http://nso-journal.ru. DOI: 10.22227/23055502.2022.3.9
-[Ссылка на электронные копии источников:](https://cloud.mail.ru/public/AUx9/FbF5bkAJc)
+
+**Копии источников находятся в облачном хранилище.** [Ссылка на электронные копии источников:](https://cloud.mail.ru/public/AUx9/FbF5bkAJc)
 
 **Результаты**
 Была создана терминологическая база из 100 терминов и память переводов, состоящая из 100 единиц для перевода. Автотесты пройдены успешно. С основными файлами было проверено 3 сценария совпадения: ICE, Fuzzy и No Match. Всё работает успешно.
